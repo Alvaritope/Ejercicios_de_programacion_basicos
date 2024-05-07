@@ -1,1 +1,2 @@
-# Ejercicios_de_programacion_basicos
+<div align="center">
+# Ejercicios de programacion basicos
