@@ -1,0 +1,14 @@
+//venta de jeans
+//-1.	Yo compro jeans para vender,
+//cada jean me cuesta 60 mil, y yo los vendo a 130 mil.
+//Hacer un ejercicio en dfd donde digite en cuantos jeans quiere comprar el cliente 
+//y me debe mostrar cuanta lana me gane en ese negocio.
+
+Algoritmo venta_de_jeans
+	Escribir "Digite la cantidad de jeans de la venta"
+	leer cantjeans
+	venta <- cantjeans * 130000
+	inversion <- cantjeans * 60000
+	total <- venta - inversion
+	Escribir "La plata que me gane en la venta de los jeans fue de: ", total
+FinAlgoritmo
